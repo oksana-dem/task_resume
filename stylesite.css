@@ -32,3 +32,39 @@ body
 	margin-top:-6%;
 	padding-left:19.8%;
 }
+.text-profile{
+	width:29.8%;
+	 font-family:Myriad Pro;
+	 color:black;
+	 margin-top:-121%;	
+	padding-left:3.8%;
+	font-size:15px;	
+}
+.text-profile span{
+font-weight:bold;
+
+}
+.contact p{
+	 font-family:Myriad Pro;
+	 color:#336699;
+	 margin-top:-5.5%;
+	font-weight:bold;
+	padding-left:9.8%;
+	font-size:40px;	
+}	
+.contact line{
+	margin-top:-6%;
+	padding-left:19.8%;
+}
+.skills p{
+	 font-family:Myriad Pro;
+	 color:#336699;
+	 margin-top:-121%;
+	font-weight:bold;
+	padding-left:9.8%;
+	font-size:40px;	
+}	
+.skills line{
+	margin-top:-6%;
+	padding-left:19.8%;
+}
