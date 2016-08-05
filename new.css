@@ -9,7 +9,6 @@ body{
 	border:1px solid black;
 }
 .right{
-	height:100%;
 	width:60.5%;
 	float:right;
 	padding-top:5.4%;
@@ -108,10 +107,47 @@ width:400px;
 }
 .education {
 	 font-family:Myriad Pro;
-	
 	 color:#336699;
-	
+	margin-top:-0.3%;
+	margin-left:11%;
 	font-weight:bold;
-	margin-left:20%;
+
 	font-size:40px;	
+}
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+svg{
+	overflow:visible;
+}
+.master{
+	margin-top:-80%;
+	margin-left:6%;
+	font-family:Myriad Pro;
+	color:#336699;
+	font-size:25px;	
+	font-weight:bold;
+}
+.date{
+	font-weight:normal;
+	color:black;
+	margin-left:1%;
+}
+.univercity-name{
+	margin-left:6%;
+	margin-top:-3%;
+	font-family:Myriad Pro;
+	text-transform: uppercase;
+	font-size:25px;	
+}
+.text-right{
+	width:;
+	font-size:15px;	
+	font-family:Myriad Pro;
+	margin-top:-2.1%;
+	margin-left:6.2%;
+	margin-right:22%;
+	
 }
