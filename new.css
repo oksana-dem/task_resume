@@ -111,7 +111,6 @@ width:400px;
 	margin-top:-0.3%;
 	margin-left:11%;
 	font-weight:bold;
-
 	font-size:40px;	
 }
 .clearfix::after {
@@ -130,6 +129,22 @@ svg{
 	font-size:25px;	
 	font-weight:bold;
 }
+.master3{
+	margin-top:-80.5%;	
+	margin-left:6%;
+	font-family:Myriad Pro;
+	color:#336699;
+	font-size:25px;	
+	font-weight:bold;
+}
+.master4{
+	margin-top:-80.4%;
+	margin-left:6%;
+	font-family:Myriad Pro;
+	color:#336699;
+	font-size:25px;	
+	font-weight:bold;
+}
 .date{
 	font-weight:normal;
 	color:black;
@@ -137,7 +152,7 @@ svg{
 }
 .univercity-name{
 	margin-left:6%;
-	margin-top:-3%;
+	margin-top:-2.9%;
 	font-family:Myriad Pro;
 	text-transform: uppercase;
 	font-size:25px;	
@@ -149,5 +164,75 @@ svg{
 	margin-top:-2.1%;
 	margin-left:6.2%;
 	margin-right:22%;
+	margin-bottom:1.5%;
 	
+}
+.experience {
+	 font-family:Myriad Pro;
+	 color:#336699;
+	margin-top:-74%;
+	margin-left:11%;
+	font-weight:bold;
+	font-size:40px;	
+}
+.company-name{
+	margin-top:-78.7%;
+	margin-bottom:1.4%;
+	margin-left:6%;
+	font-family:Myriad Pro;
+	font-size:25px;	
+	font-weight:bold;
+}
+.your-job{
+	margin-left:6%;
+	margin-top:-1.2%;
+	font-family:Myriad Pro;
+	text-transform: uppercase;
+	font-size:25px;	
+}
+.company-name2{
+	margin-top:-80.5%;
+	margin-bottom:1.4%;
+	margin-left:6%;
+	font-family:Myriad Pro;
+	font-size:25px;	
+	font-weight:bold;
+}
+.company-name3{
+	margin-top:-80.2%;
+	margin-bottom:1.4%;
+	margin-left:6%;
+	font-family:Myriad Pro;
+	font-size:25px;	
+	font-weight:bold;
+}
+.photoshop{
+	display:block;
+	margin-top:-80.5%;
+	margin-left:0.5%;
+	font-size:25px;	
+	font-family:Myriad Pro;
+}
+.photoshop span{
+	margin-left:24.6%;
+}
+.illustrator{
+	display:block;
+	margin-top:7%;
+	margin-left:0.5%;
+	font-size:25px;	
+	font-family:Myriad Pro;
+}
+.illustrator span{
+	margin-left:23.6%;
+}
+.indesign{
+	display:block;
+	margin-top:6.5%;
+	margin-left:0.5%;
+	font-size:25px;	
+	font-family:Myriad Pro;
+}
+.indesign span{
+	margin-left:29%;
 }
