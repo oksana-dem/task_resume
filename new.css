@@ -1,6 +1,7 @@
 body{
 min-width:700px;
 max-width:1700px;
+font-size: 20px ;
 }
 .left{
 
@@ -138,6 +139,11 @@ font-weight:bold;
 svg{
 	overflow:visible;
 }
+.circle1{
+	overflow:hidden;
+
+	
+}
 .master{
 	margin-top:-80%;
 	margin-left:6.4%;
@@ -261,4 +267,18 @@ svg{
 }
 .indesign span{
 	margin-left:29%;
+}
+.svg-container {
+display: inline-block;
+position: relative;
+width: 100%;
+
+
+overflow: hidden;
+}
+.svg-content {
+display: inline-block;
+position: relative;
+top: 0;
+left: 0;
 }
