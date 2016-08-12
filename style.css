@@ -1,0 +1,328 @@
+body{
+	width: 1920px;
+	min-width:600px;
+}
+@media screen and (max-width:1920px){
+svg{
+	overflow:visible;
+}
+
+.top-circle circle:nth-child(2){
+	r:156px; cx:420px; cy:309px;  fill:#336699;
+}
+.top-circle circle:nth-child(1){
+ r:178px; cx:420px; cy:309px; stroke-width:1; stroke:#336699; fill:white;
+}
+.name-here{
+	font-family:Myriad Pro;
+	margin-left:208px;
+	margin-top:370px;
+	font-size:86px;
+}
+.surname{
+	 font-family:Myriad Pro;
+	font-weight:bold;
+	margin-left:208px;
+	font-size:94px;
+	margin-top:-118px;
+}
+.graphic-designer{
+	font-family:Myriad Pro;
+	margin-left:257px;
+	font-size:37px;
+	font-weight:bolder;
+	margin-top:-93px;
+}
+.profile-circle circle:nth-child(2){
+	 r:51px; cx:144px; cy:137px; ; fill:#3366cc;
+}
+.profile-circle circle:nth-child(1){
+	 r:57px; cx:144px; cy:137px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.profile  {
+	display:block;
+	margin-top:-55px;
+	margin-left:216px;
+	 font-family:Myriad Pro;
+	 color:#336699;
+	font-weight:bold;
+	font-size:63px;	
+}	
+.text-profile{
+	width:645px;
+	 font-family:Myriad Pro;
+	 color:black;
+	 margin-top:-176px;	
+	  margin-left:85px;	
+	font-size:24px;	
+}
+.text-profile span{
+font-weight:bold;
+}
+
+.contact-circle circle:nth-child(2){
+	 r:49px; cx:144px; cy:119px; ; fill:#3366cc;
+}
+.contact-circle circle:nth-child(1){
+	 r:56px; cx:144px; cy:119px; stroke-width:1; stroke:#3366cc; fill:white;
+}	
+.contact {
+	 font-family:Myriad Pro;
+	 color:#336699;
+	 margin-top:-70px;
+	font-weight:bold;
+	margin-left:216px;
+	font-size:63px;	
+}
+
+.contact-information {
+	margin-top:20px;
+	margin-left:83px;
+}
+.names{
+	font-family:Myriad Pro;
+	color:#3366cc;
+	font-size:32px;	
+	font-weight:bold;
+	 text-transform: uppercase;
+	 padding-bottom:42px;
+	 
+}
+.information {
+	font-family:Myriad Pro;
+	font-size:32px;
+	padding-bottom:42px;
+	  padding-left:60px;
+}
+
+.skills-circle circle:nth-child(2){
+	 r:49px; cx:144px; cy:85px; ; fill:#3366cc;
+}
+.skills-circle circle:nth-child(1){
+	 r:55px; cx:144px; cy:85px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.skills{
+	 font-family:Myriad Pro;
+	 color:#336699;
+	 margin-top:-110px;
+	font-weight:bold;
+	margin-left:213px;
+	font-size:63px;	
+}
+.types{
+	margin-top:-10px;
+	margin-left:330px;
+	font-family:Myriad Pro;
+	font-size:40px;
+	text-transform: uppercase;
+}
+.types2{
+	margin-top:70px;
+	margin-left:308px;
+	font-family:Myriad Pro;
+	font-size:40px;
+	text-transform: uppercase;
+}
+.types3{
+	margin-top:71px;
+	margin-left:322px;
+	font-family:Myriad Pro;
+	font-size:40px;
+	text-transform: uppercase;
+}
+.types4{
+	margin-top:71px;
+	margin-left:257px;
+	font-family:Myriad Pro;
+	font-size:40px;
+	text-transform: uppercase;
+}
+.education {
+	 font-family:Myriad Pro;
+	 color:#336699;
+	margin-top:-2443px;
+	margin-left:990px;
+	font-weight:bold;
+	font-size:63px;	
+}
+.education-circle circle:nth-child(2){
+	 r:52px; cx:901px; cy:-97px; ; fill:#3366cc;
+}
+.education-circle circle:nth-child(1){
+	 r:58px; cx:901px; cy:-97px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.master{
+	margin-top:-156px;
+	margin-left:925px;
+	font-family:Myriad Pro;
+	color:#336699;
+	font-size:40px;	
+	font-weight:bold;
+}
+.date{
+	font-weight:normal;
+	color:black;
+	margin-left:15px;	
+}
+.univercity-name{
+	margin-left:925px;
+	margin-top:-35px;
+	font-family:Myriad Pro;
+	text-transform: uppercase;
+	font-size:40px;	
+}
+.text-right{
+	width:;
+	font-size:24px;	
+	font-family:Myriad Pro;
+	margin-top:-32px;
+	margin-left:927px;
+	margin-right:80px;
+	margin-bottom:22px;
+	
+}
+.text-right2{
+	width:;
+	font-size:24px;	
+	font-family:Myriad Pro;
+	margin-top:-32px;
+	margin-left:927px;
+	margin-right:80px;
+	margin-bottom:19px;
+	
+}
+
+.master-degree-circle circle {
+r:15px; cx:878px; cy:-190px; 
+}
+.experience {
+	 font-family:Myriad Pro;
+	 color:#336699;
+	margin-top:-78px;
+	margin-left:990px;
+	font-weight:bold;
+	font-size:63px;	
+}
+.experience-circle circle:nth-child(2){
+	 r:52px; cx:905px; cy:-99px; ; fill:#3366cc;
+}
+.experience-circle circle:nth-child(1){
+	 r:58px; cx:905px; cy:-99px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.company-name{
+	margin-top:-133px;
+	margin-bottom:11px;
+	margin-left:925px;
+	font-family:Myriad Pro;
+	font-size:40px;	
+	font-weight:bold;
+}
+.date2{
+	font-weight:normal;
+	color:black;
+	margin-left:10px;	
+}
+.your-job{
+	margin-left:925px;
+	margin-top:-5px;
+	font-family:Myriad Pro;
+	text-transform: uppercase;
+	font-size:40px;	
+}
+.company-name-circle circle {
+r:15px; cx:878px; cy:-165px; 
+}
+.company-name-circle2 circle {
+r:15px; cx:878px; cy:-165px; 
+}
+.text-right3{
+	width:;
+	font-size:24px;	
+	font-family:Myriad Pro;
+	margin-top:-32px;
+	margin-left:927px;
+	margin-right:80px;
+	margin-bottom:-5px;
+	
+}
+.software{
+	 font-family:Myriad Pro;
+	 color:#336699;
+	margin-top:-48px;
+	margin-left:990px;
+	font-weight:bold;
+	font-size:63px;	
+}
+.software-circle circle:nth-child(2){
+	 r:50px; cx:902px; cy:-101px; ; fill:#3366cc;
+}
+.software-circle circle:nth-child(1){
+	 r:56px; cx:902px; cy:-101px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.photoshop{
+	display:block;
+	margin-top:-158px;
+	margin-left:855px;
+	font-size:40px;	
+	font-family:Myriad Pro;
+}
+.photoshop span{
+	margin-left:313px;
+}
+.illustrator{
+	display:block;
+	margin-top:90px;
+	margin-left:855px;
+	font-size:40px;	
+	font-family:Myriad Pro;
+}
+.illustrator span{
+	margin-left:303px;
+}
+.indesign{
+	display:block;
+	margin-top:85px;
+	margin-left:855px;
+	font-size:40px;	
+	font-family:Myriad Pro;
+}
+.indesign span{
+	margin-left:368px;
+}
+.rect1{
+	fill:#E0EEEE; x:855px; y:-289px;width:430px;
+	height:35px;
+}
+.rect2{
+	fill:#E0EEEE; x:1390px; y:-289px;width:430px;
+	height:35px;
+}
+.rect3{
+	fill:#E0EEEE; x:1390px; y:-155px;width:430px;
+	height:35px;
+}
+.rect4{
+	fill:#E0EEEE; x:855px; y:-155px;width:430px;
+	height:35px;
+}
+.rect5{
+	fill:#E0EEEE; x:855px; y:-25px;width:430px;
+	height:35px;
+}
+.rect6{
+	fill:#E0EEEE; x:1390px; y:-25px;width:430px;
+	height:35px;
+}
+.profile-rect rect{
+fill:#336699; x:465px; y:-100px;width:260px;
+	height:8px;
+}
+.contact-circle rect{
+fill:#336699; x:495px; y:115px;width:230px;
+	height:8px;
+}
+.skills-circle line{
+	fill:#336699; x:95px; y:215px;width:230px;
+	height:8px;
+}
+}
