@@ -325,4 +325,163 @@ fill:#336699; x:495px; y:115px;width:230px;
 	fill:#336699; x:95px; y:215px;width:230px;
 	height:8px;
 }
+.skills-circle .creative1{
+r:13px; cx:170px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative2{
+r:13px; cx:211px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative3{
+r:13px; cx:254px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative4{
+r:13px; cx:295px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative5{
+r:13px; cx:338px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative6{
+r:13px; cx:383px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative7{
+r:13px; cx:425px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative8{
+r:13px; cx:467px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative9{
+r:13px; cx:510px; cy:245px;	fill:#336699;
+}
+.skills-circle .creative10{
+r:13px; cx:552px; cy:245px;	fill:#E0EEEE;
+}
+.skills-circle .creative11{
+r:13px; cx:596px; cy:245px;	fill:#E0EEEE;
+}
+.skills-circle .creative12{
+r:13px; cx:638px; cy:245px;	fill:#E0EEEE;
+}
+
+.skills-circle .teamwork1{
+r:13px; cx:170px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork2{
+r:13px; cx:211px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork3{
+r:13px; cx:254px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork4{
+r:13px; cx:295px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork5{
+r:13px; cx:338px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork6{
+r:13px; cx:383px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork7{
+r:13px; cx:425px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork8{
+r:13px; cx:467px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork9{
+r:13px; cx:510px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork10{
+r:13px; cx:552px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork11{
+r:13px; cx:596px; cy:365px;	fill:#336699;
+}
+.skills-circle .teamwork12{
+r:13px; cx:638px; cy:365px;	fill:#E0EEEE;
+}
+
+.skills-circle .innovate1{
+r:13px; cx:170px; cy:483px;	fill:#336699;
+}
+.skills-circle .innovate2{
+r:13px; cx:211px; cy:483px;	fill:#336699;
+}
+.skills-circle .innovate3{
+r:13px; cx:254px; cy:483px;	fill:#336699;
+}
+.skills-circle .innovate4{
+r:13px; cx:295px; cy:483px;	fill:#336699;
+}
+.skills-circle .innovate5{
+r:13px; cx:338px; cy:483px;	fill:#336699;
+}
+.skills-circle .innovate6{
+r:13px; cx:383px; cy:483px;	fill:#336699;
+}
+.skills-circle .innovate7{
+r:13px; cx:425px; cy:483px;	fill:#E0EEEE;
+}
+.skills-circle .innovate8{
+r:13px; cx:467px; cy:483px;	fill:#E0EEEE
+}
+.skills-circle .innovate9{
+r:13px; cx:510px; cy:483px;	fill:#E0EEEE;
+}
+.skills-circle .innovate10{
+r:13px; cx:552px; cy:483px;	fill:#E0EEEE;
+}
+.skills-circle .innovate11{
+r:13px; cx:596px; cy:483px;	fill:#E0EEEE
+}
+.skills-circle .innovate12{
+r:13px; cx:638px; cy:483px;	fill:#E0EEEE;
+}
+
+.skills-circle .communication1{
+r:13px; cx:170px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication2{
+r:13px; cx:211px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication3{
+r:13px; cx:254px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication4{
+r:13px; cx:295px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication5{
+r:13px; cx:338px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication6{
+r:13px; cx:383px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication7{
+r:13px; cx:425px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication8{
+r:13px; cx:467px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication9{
+r:13px; cx:510px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication10{
+r:13px; cx:552px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication11{
+r:13px; cx:596px; cy:597px;	fill:#336699;
+}
+.skills-circle .communication12{
+r:13px; cx:638px; cy:597px;	fill:#E0EEEE;
+}
+.education-circle rect{
+	fill:#336699; x:1340px; y:-103px;width:483px;
+	height:8px;
+}
+.experience-circle rect{
+	fill:#336699; x:1340px; y:-103px;width:483px;
+	height:8px;
+}
+.software-circle rect{
+	fill:#336699; x:1340px; y:-103px;width:483px;
+	height:8px;
+}
 }
