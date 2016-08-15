@@ -39,6 +39,9 @@ svg{
 .profile-circle circle:nth-child(1){
 	 r:57px; cx:144px; cy:137px; stroke-width:1; stroke:#3366cc; fill:white;
 }
+.profile-circle circle:nth-child(3){
+	 r:15px; cx:145px; cy:129px; stroke-width:1; stroke:#3366cc; fill:white;
+}
 .profile  {
 	display:block;
 	margin-top:-55px;
@@ -96,10 +99,15 @@ font-weight:bold;
 }
 
 .skills-circle circle:nth-child(2){
-	 r:49px; cx:144px; cy:85px; ; fill:#3366cc;
+	 r:49px; cx:141px; cy:83px; ; fill:#3366cc;
 }
 .skills-circle circle:nth-child(1){
-	 r:55px; cx:144px; cy:85px; stroke-width:1; stroke:#3366cc; fill:white;
+	 r:55px; cx:141px; cy:83px; stroke-width:1; stroke:#3366cc; fill:white;
+	 
+}
+.skills-circle circle:nth-child(3){
+	 r:23px; cx:141px; cy:72px; stroke-width:1; stroke:#3366cc; fill:white;
+	 
 }
 .skills{
 	 font-family:Myriad Pro;
@@ -208,6 +216,9 @@ r:15px; cx:878px; cy:-190px;
 }
 .experience-circle circle:nth-child(1){
 	 r:58px; cx:905px; cy:-99px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.experience-circle circle:nth-child(3){
+	 r:15px; cx:904px; cy:-112px; stroke-width:5; stroke:white; fill:#3366cc;
 }
 .company-name{
 	margin-top:-133px;
@@ -483,5 +494,31 @@ r:13px; cx:638px; cy:597px;	fill:#E0EEEE;
 .software-circle rect{
 	fill:#336699; x:1340px; y:-103px;width:483px;
 	height:8px;
+}
+
+.skills-circle .line{
+fill:#336699; x:425px; y:75px;width:297px;
+	height:8px;
+}
+.skills-circle .lamp1{
+fill:white; x:130px; y:84px;width:22px;
+	height:17px;rx:0;ry:8;
+}
+.skills-circle .lamp2{
+fill:white; x:130px; y:104px;width:22px;
+	height:10px;rx:0;ry:5;
+}
+.experience-circle .bag{
+	fill:white; 
+	x:873px; y:-114px;
+	width:61px;
+	height:44px;
+}
+.software-circle .comp{
+	stroke-width:5; stroke:white; fill:#3366cc;
+	x:876px; y:-125px;
+	width:52px;
+	height:32px;
+	ry:7;
 }
 }
