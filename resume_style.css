@@ -1,0 +1,483 @@
+body{
+	width:100%;	
+	box-sizing:border-box;
+	
+}
+@media screen and (min-width: 600px) {
+svg{
+	overflow:visible;
+
+}
+.name-here{
+	font-family:Myriad Pro;
+	margin-left:22%;
+	margin-top:196px;
+	font-size:3.6em;
+}
+.surname{
+	 font-family:Myriad Pro;
+	font-weight:bold;
+	margin-left:22%;
+	font-size:3.9em;
+	margin-top:-80px;
+}
+.graphic-designer{
+	font-family:Myriad Pro;
+	margin-left:26.7%;
+	font-size:1.6em;
+	font-weight:bolder;
+	margin-top:-60px;
+}
+.top-circle circle:nth-child(2){
+	r:44%; cx:93%; cy:201px;  fill:#336699;
+}
+.top-circle circle:nth-child(1){
+ r:49.8%; cx:93%; cy:201px; stroke-width:1; stroke:#336699; fill:white;
+}
+
+.profile  {
+	display:block;
+	margin-top:-88px;
+	margin-left:22.8%;
+	 font-family:Myriad Pro;
+	 color:#336699;
+	font-weight:bold;
+	font-size:2.5em;	
+}
+.text-profile{
+	width:67%;
+	 font-family:Myriad Pro;
+	 color:black;
+	 margin-top:-164px;	
+	  margin-left:9%;	
+	font-size:0.98em;	
+	box-sizing:border-box;
+}
+
+.profile-circle circle:nth-child(2){
+	 r:14%; cx:31%; cy:89px; ; fill:#3366cc;
+}
+.profile-circle circle:nth-child(1){
+	 r:16.2%; cx:31%; cy:89px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.contact  {
+	display:block;
+	margin-top:58px;
+	margin-left:22.8%;
+	 font-family:Myriad Pro;
+	 color:#336699;
+	font-weight:bold;
+	font-size:2.5em;	
+}
+.contact-information {
+	margin-top:23px;
+	margin-left:8%;
+}
+.contact-circle circle:nth-child(2){
+	 r:14%; cx:31%; cy:-291px; ; fill:#3366cc;
+}
+.contact-circle circle:nth-child(1){
+	 r:16.2%; cx:31%; cy:-291px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+
+.names{
+	font-family:Myriad Pro;
+	color:#3366cc;
+	font-size:1.4em;	
+	font-weight:bold;
+	 text-transform: uppercase;
+	 padding-bottom:26px;
+	 
+}
+.information {
+	font-family:Myriad Pro;
+	font-size:1.4em;
+	padding-bottom:26px;
+	  padding-left:11%;
+}
+
+.skills {
+	display:block;
+	margin-top:-120px;
+	margin-left:22.8%;
+	 font-family:Myriad Pro;
+	 color:#336699;
+	font-weight:bold;
+	font-size:2.5em;	
+}
+.types{
+	margin-top:-3px;
+	margin-left:35.5%;
+	font-family:Myriad Pro;
+	font-size:1.7em;
+	text-transform: uppercase;
+}
+.types2{
+	margin-top:45px;
+	margin-left:33%;
+	font-family:Myriad Pro;
+	font-size:1.7em;
+	text-transform: uppercase;
+}
+.types3{
+	margin-top:48px;
+	margin-left:34%;
+	font-family:Myriad Pro;
+	font-size:1.7em;
+	text-transform: uppercase;
+}
+.types4{
+	margin-top:44px;
+	margin-left:27%;
+	font-family:Myriad Pro;
+	font-size:1.7em;
+	text-transform: uppercase;
+}
+
+.skills-circle circle:nth-child(2){
+	 r:14%; cx:31%; cy:-355px; ; fill:#3366cc;
+}
+.skills-circle circle:nth-child(1){
+	 r:16.2%; cx:31%; cy:-355px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+
+.skills-circle .creative1{
+r:3.9%; cx:37%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative2{
+r:3.9%; cx:46%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative3{
+r:3.9%; cx:55%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative4{
+r:3.9%; cx:65%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative5{
+r:3.9%; cx:74%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative6{
+r:3.9%; cx:84%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative7{
+r:3.9%; cx:94%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative8{
+r:3.9%; cx:103%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative9{
+r:3.9%; cx:112%; cy:-246px;	fill:#336699;
+}
+.skills-circle .creative10{
+r:3.9%; cx:121%; cy:-246px;	fill:#E0EEEE;
+}
+.skills-circle .creative11{
+r:3.9%; cx:131%; cy:-246px;	fill:#E0EEEE;
+}
+.skills-circle .creative12{
+r:3.9%; cx:141%; cy:-246px;	fill:#E0EEEE;
+}
+
+.skills-circle .teamwork1{
+r:3.9%; cx:37%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork2{
+r:3.9%; cx:46%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork3{
+r:3.9%; cx:55%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork4{
+r:3.9%; cx:65%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork5{
+r:3.9%; cx:74%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork6{
+r:3.9%; cx:84%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork7{
+r:3.9%; cx:94%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork8{
+r:3.9%; cx:103%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork9{
+r:3.9%; cx:112%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork10{
+r:3.9%; cx:121%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork11{
+r:3.9%; cx:131%; cy:-168px;	fill:#336699;
+}
+.skills-circle .teamwork12{
+r:3.9%; cx:141%; cy:-168px;	fill:#E0EEEE;
+}
+
+.skills-circle .innovate1{
+r:3.9%; cx:37%; cy:-89px;	fill:#336699;
+}
+.skills-circle .innovate2{
+r:3.9%; cx:46%; cy:-89px;	fill:#336699;
+}
+.skills-circle .innovate3{
+r:3.9%; cx:55%; cy:-89px;	fill:#336699;
+}
+.skills-circle .innovate4{
+r:3.9%; cx:65%; cy:-89px;	fill:#336699;
+}
+.skills-circle .innovate5{
+r:3.9%; cx:74%; cy:-89px;	fill:#336699;
+}
+.skills-circle .innovate6{
+r:3.9%; cx:84%; cy:-89px;	fill:#336699;
+}
+.skills-circle .innovate7{
+r:3.9%; cx:94%; cy:-89px;	fill:#E0EEEE;
+}
+.skills-circle .innovate8{
+r:3.9%; cx:103%; cy:-89px;	fill:#E0EEEE;
+}
+.skills-circle .innovate9{
+r:3.9%; cx:112%; cy:-89px;	fill:#E0EEEE;
+}
+.skills-circle .innovate10{
+r:3.9%; cx:121%; cy:-89px;	fill:#E0EEEE;
+}
+.skills-circle .innovate11{
+r:3.9%; cx:131%; cy:-89px;	fill:#E0EEEE;
+}
+.skills-circle .innovate12{
+r:3.9%; cx:141%; cy:-89px;	fill:#E0EEEE;
+}
+
+.skills-circle .communication1{
+r:3.9%; cx:37%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication2{
+r:3.9%; cx:46%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication3{
+r:3.9%; cx:55%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication4{
+r:3.9%; cx:65%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication5{
+r:3.9%; cx:74%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication6{
+r:3.9%; cx:84%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication7{
+r:3.9%; cx:94%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication8{
+r:3.9%; cx:103%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication9{
+r:3.9%; cx:112%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication10{
+r:3.9%; cx:121%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication11{
+r:3.9%; cx:131%; cy:-10px;	fill:#336699;
+}
+.skills-circle .communication12{
+r:3.9%; cx:141%; cy:-10px;	fill:#E0EEEE;
+}
+.education  {
+	display:block;
+	margin-top:-88px;
+	margin-left:22.8%;
+	 font-family:Myriad Pro;
+	 color:#336699;
+	font-weight:bold;
+	font-size:2.5em;	
+}
+.education-circle circle:nth-child(2){
+	 r:14%; cx:31%; cy:-60px; ; fill:#3366cc;
+}
+.education-circle circle:nth-child(1){
+	 r:16.2%; cx:31%; cy:-60px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+
+.master{
+	margin-top:-149px;
+	margin-left:15.5%;
+	font-family:Myriad Pro;
+	color:#336699;
+	font-size:1.7em;	
+	font-weight:bold;
+}
+.date{
+	font-weight:normal;
+	color:black;
+	margin-left:2%;	
+}
+.univercity-name{
+	margin-left:15.5%;
+	margin-top:-25px;
+	font-family:Myriad Pro;
+	text-transform: uppercase;
+	font-size:1.7em;	
+}
+.text-right{
+	width:;
+	font-size:0.96em;	
+	font-family:Myriad Pro;
+	margin-top:-22px;
+	margin-left:16.1%;
+	margin-right:;
+	margin-bottom:10px;
+	
+}
+.text-right2{
+	font-size:0.96em;	
+	font-family:Myriad Pro;
+	margin-top:-22px;
+	margin-left:16.1%;
+	margin-right:;
+	margin-bottom:8px;
+	
+}
+.text-right3{
+	font-size:0.96em;	
+	font-family:Myriad Pro;
+	margin-top:-22px;
+	margin-left:16.1%;
+	margin-right:;
+	margin-bottom:10px;
+	
+	
+}
+.text-right4{
+	font-size:0.96em;	
+	font-family:Myriad Pro;
+	margin-top:-22px;
+	margin-left:16.1%;
+	margin-right:;
+	margin-bottom:-6px;
+	
+	
+}
+.master-degree-circle circle {
+r:4%; cx:22.5%; cy:-122px; 
+}
+.experience {
+	display:block;
+	margin-top:-96px;
+	margin-left:22.6%;
+	 font-family:Myriad Pro;
+	 color:#336699;
+	font-weight:bold;
+	font-size:2.6em;	
+}
+.experience-circle circle:nth-child(2){
+		 r:14%; cx:28%; cy:-60px; ; fill:#3366cc;
+}
+.experience-circle circle:nth-child(1){
+	 r:16.2%; cx:28%; cy:-60px; stroke-width:1; stroke:#3366cc; fill:white;
+}
+.company-name{
+	margin-top:-136px;
+	margin-left:15.5%;
+	font-family:Myriad Pro;
+	color:#336699;
+	font-size:1.7em;	
+	font-weight:bold;
+}
+.date2{
+	font-weight:normal;
+	color:black;
+	margin-left:3px;	
+}
+.company-name-circle circle {
+r:4%; cx:22.5%; cy:-107px; 
+}
+.your-job{
+margin-left:15.5%;
+	margin-top:-25px;
+	font-family:Myriad Pro;
+	text-transform: uppercase;
+	font-size:1.7em;	
+}
+.company-name-circle2 circle {
+r:4%; cx:22.5%; cy:-108px; 
+}
+.company-name-circle3 circle {
+r:4%; cx:22.5%; cy:-120px; 
+}
+.software {
+	display:block;
+	margin-top:-92px;
+	margin-left:22.6%;
+	 font-family:Myriad Pro;
+	 color:#336699;
+	font-weight:bold;
+	font-size:2.6em;	
+}
+.software-circle circle:nth-child(2){
+	  r:14%; cx:28%; cy:-67px; ; fill:#3366cc;
+}
+.software-circle circle:nth-child(1){
+	r:16.2%; cx:28%; cy:-67px; stroke-width:1; stroke:#3366cc; fill:white; 
+}
+
+.photoshop{
+	display:block;
+	margin-top:-156px;
+	margin-left:7.8%;
+	font-size:1.7em;	
+	font-family:Myriad Pro;
+}
+.photoshop span{
+	margin-left:36%;
+}
+.illustrator{
+	display:block;
+	margin-top:60px;
+	margin-left:7.8%;
+	font-size:1.7em;	
+	font-family:Myriad Pro;
+}
+.illustrator span{
+	margin-left:35%;
+}
+.indesign{
+	display:block;
+	margin-top:55px;
+	margin-left:7.8%;
+	font-size:1.7em;	
+	font-family:Myriad Pro;
+}
+.indesign span{
+	margin-left:43%;
+}
+.rect1{
+	fill:#E0EEEE; x:16%; y:-196px;width:260px;
+	height:25px;
+}
+.rect2{
+	fill:#E0EEEE; x:136%; y:-196px;width:260px;
+	height:25px;
+}
+.rect3{
+	fill:#E0EEEE; x:16%; y:-106px;width:260px;
+	height:25px;
+}
+.rect4{
+	fill:#E0EEEE; x:136%; y:-106px;width:260px;
+	height:25px;
+}
+.rect5{
+	fill:#E0EEEE; x:16%; y:-20px;width:260px;
+	height:25px;
+}
+.rect6{
+	fill:#E0EEEE; x:136%; y:-20px;width:260px;
+	height:25px;
+}
+}	
